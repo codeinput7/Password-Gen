@@ -1,13 +1,17 @@
-#passwordgen
-This is a random password generator to generate random password for your accounts and store it also for your ease.
+# PassGen
 
-This program is written in Python3 that's why you need to have Python3 installed.
+PassGen is a Python Module to generate unique passwords for your accounts.
 
-Install git to clone this repo
+## Installation
 
-Guide:-
+```bash
+git clone https://github.com/codeinput7/Password-Gen.git
+```
 
-cd passwordgen
+## Usage
+
+```
+cd Password-Gen
 
 pip install -r requirement.txt
 
@@ -16,6 +20,7 @@ python pwdgen.py
 To see the password stored:-
 
 python seepass.py
+```
 
-
-Thankyou Hope You will like it...This is my first Python Script 😅
+## Contributing
+Pull requests are welcome. You Should make any genuine pull request. If that request is a spam then you are not going to label it as 'hacktoberfest-accepted' as you will not get a chance qualify for Hacktoberfest 2021.
